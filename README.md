@@ -122,21 +122,26 @@ plt.show()
 ## Output:
 
 ### Training:
-![alt text](output/train.png)
+<img width="798" height="636" alt="pro 1" src="https://github.com/user-attachments/assets/cd51d7c3-675d-4d7c-8a11-6cc4dbec620e" />
+
 
 ### Accuracy:
-![alt text](output/accuracy.png)
+<img width="464" height="399" alt="pro 2" src="https://github.com/user-attachments/assets/040544d8-6602-49f6-bb2b-8476a236eaf5" />
+
 
 ### Confusion Matrix:
-![alt text](output/CM.png)
+<img width="757" height="642" alt="pro 3" src="https://github.com/user-attachments/assets/90182b9f-faf8-4907-b824-5b54f6e201ff" />
 
 ### Loss:
-![alt text](output/Loss.png)
+<img width="598" height="457" alt="pro 4" src="https://github.com/user-attachments/assets/ae59e0b7-22c6-47f6-a1c4-0bbc79cdbc0a" />
+
 
 ### Classification:
-![alt text](output/Class.png)
+<img width="1056" height="613" alt="pro 5" src="https://github.com/user-attachments/assets/dbb2aa9e-93c9-4e85-a44f-67043dd25217" />
+
 
 ### Misclassification:
-![alt text](output/misclass.png)
+<img width="1045" height="609" alt="pro 6" src="https://github.com/user-attachments/assets/fc281f39-022c-4050-9443-91d5d206c8da" />
+
 
 
